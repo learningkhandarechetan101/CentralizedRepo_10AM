@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-08T23:18:48 IST" name="Default suite" finished-at="2024-10-08T23:19:59 IST" duration-ms="71606">
+    <groups>
+    </groups>
+    <test started-at="2024-10-08T23:18:48 IST" name="Default test" finished-at="2024-10-08T23:19:59 IST" duration-ms="71606">
+      <class name="TCS.tests.PractiseTest">
+        <test-method is-config="true" signature="intializeDriver()[pri:0, instance:TCS.tests.PractiseTest@40dd3977]" started-at="2024-10-08T23:18:48 IST" name="intializeDriver" finished-at="2024-10-08T23:19:22 IST" duration-ms="34000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method signature="DropDowns()[pri:2, instance:TCS.tests.PractiseTest@40dd3977]" started-at="2024-10-08T23:19:22 IST" name="DropDowns" finished-at="2024-10-08T23:19:58 IST" duration-ms="35830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropDowns -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TCS.tests.PractiseTest@40dd3977]" started-at="2024-10-08T23:19:58 IST" name="tearDown" finished-at="2024-10-08T23:19:59 IST" duration-ms="1735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TCS.tests.PractiseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
